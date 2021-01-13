@@ -1,4 +1,4 @@
-module github.com/dexidp/dex
+module github.com/nInDO-hub/dex
 
 go 1.15
 
